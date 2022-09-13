@@ -66,6 +66,7 @@ function App() {
         })
       })
       .catch((error) => alert(error.massage))
+    setOpen(false)
   }
 
   const signIn = (e) => {
