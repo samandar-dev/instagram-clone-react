@@ -1,0 +1,14 @@
+.imageeupload {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin: 10px auto;
+}
+.imageupload__progress {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.imageeupload input {
+  margin-bottom: 10px;
+}
