@@ -50,11 +50,14 @@
   width: 100%;
   padding: 20px;
   background: #fff;
+  display: flex;
+  align-items: center;
 }
 .app__postRight-img img {
   width: 100%;
   object-fit: contain;
   margin-bottom: 20px;
+  margin-right: 10px;
 }
 .app__postRight-text {
   padding: 0 10px;
